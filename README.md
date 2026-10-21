@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/abraaolyncoln_/" target="_blank">
+  <a href="[https://www.instagram.com/abraaolyncoln](https://www.instagram.com/abraaolyncoln_?srtk=a3M4YWk3ODZ2Zno5&utm_source=qr)_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
