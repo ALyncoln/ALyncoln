@@ -1,52 +1,67 @@
-<h1 align="left">🚀 Hello World!</h1>
 
-###
+<h1 align="left">Lyncoln | Backend Developer</h1>
 
-<p align="left">I'm Lyncoln, just a backend developer always chasing learning, growth, and constant evolution✝.<br><br>I build systems, solve problems, and create solutions that matter, knowing I make mistakes but seeing them as opportunities to learn, improve, and constantly refine my skills while exploring new tools.</p>
+<h2 align="left">💫 About Me</h2>
 
-###
+<p align="left">
+  Hello, I'm Lyncoln. I'm a backend developer focused on PHP and database-driven applications.
+  <br><br>
+  I enjoy building practical solutions, understanding how systems work behind the scenes,
+  and writing code that is organized, reliable, and maintainable.
+</p>
 
-<h2 align="left">⚡About me</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
-###
+<p align="left">
+  Here are the technologies and tools I work with:
+</p>
 
-<p align="left">📚 Currently learning: PHP, OOP & backend architecture <br> <br>🎯 Goals: Become a reference in backend development and keep growing personally</p>
+<h3 align="left">Languages & Markup</h3>
 
-###
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,html,css,js" height="40" alt="PHP, HTML, CSS and JavaScript" />
+</p>
 
-<h2 align="left">👾Code with</h2>
+<h3 align="left">Databases</h3>
 
-###
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-</div>
+<h3 align="left">Tools & Platforms</h3>
 
-###
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" alt="Git, GitHub and VS Code" />
+</p>
 
-###
+<h2 align="left">🧠 Current Focus</h2>
 
-<h2 align="left">🌐 Socials</h2>
+<p align="left">
+  My current focus is strengthening my backend development skills through PHP and MySQL,
+  while studying Object-Oriented Programming, PDO, CRUD operations, and the MVC pattern.
+</p>
 
-###
+<h2 align="left">🚀 Objective</h2>
 
-<div align="left">
+<p align="left">
+  My goal is to become a skilled backend developer, capable of designing and building
+  reliable applications with well-structured code, secure database interactions,
+  and maintainable architecture.
+</p>
 
-  <a href="https://www.linkedin.com/in/abraaolyncoln" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
+<h2 align="left">🌐 Connect With Me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abraaolyncoln">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img width="12" />
-  <a href="https://www.instagram.com/abraaolyncoln_/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
+  <a href="https://www.instagram.com/abraaolyncoln_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
+</p>
 
-###
+---
+
+<p align="left">
+  <i>✝️ Faith and integrity are part of who I am.</i>
+</p>
