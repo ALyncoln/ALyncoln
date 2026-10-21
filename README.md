@@ -40,8 +40,9 @@
 
 <div align="left">
 
-  <a href="https://www.linkedin.com/in//" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+   <a href="https://www.linkedin.com/in/abraaolyncoln" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
+  </a>
     <a href="https://www.instagram.com/abraaolyncoln_/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
   </a>
