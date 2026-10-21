@@ -40,10 +40,11 @@
 
 <div align="left">
 
-   <a href="https://www.linkedin.com/in/abraaolyncoln" target="_blank">
+  <a href="https://www.linkedin.com/in/abraaolyncoln" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
   </a>
-    <a href="https://www.instagram.com/abraaolyncoln_/" target="_blank">
+  <img width="12" />
+  <a href="https://www.instagram.com/abraaolyncoln_/" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
   </a>
 </div>
